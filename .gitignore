@@ -1,0 +1,6 @@
+.testing
+__pychache__/
+.DataProcessing - Copy
+.new JsonNames
+*.pyc
+*.csv
